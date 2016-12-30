@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.2
+Created-By: 1.7.0_04-b20 (Oracle Corporation)
+Class-Path: lib/java-json.jar lib/AbsoluteLayout.jar lib/swing-layout-
+ 1.0.4.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: com.donorlookup.DonorLookup
+
